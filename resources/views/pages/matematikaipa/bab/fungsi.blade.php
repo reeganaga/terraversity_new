@@ -16,22 +16,25 @@
                 <li class="sidebar-brand">
                     FISIKA
                 </li>
-                <li>
-                    <a href="#pendahuluan">Pendahuluan</a>
-                </li>
-                <li><a href="#dinamikageraklurus">Dinamika Gerak Lurus</a></li>
-                <li><a href="#dinamikarotasi">Dinamika Rotasi</a></li>
-                <li><a href="#fisikamodern">Fisika Modern</a></li>
-                <li><a href="#fluida">Fluida</a></li>
-                <li><a href="#getarangelombangbunyi">Getaran,Gelombang dan Bunyi</a></li>
-                <li><a href="#induksimagnetikdanarusteganganbolakbalik">Induksi Magnetik Dan Arus Tegangan Bolak-Balik</a></li>
-                <li><a href="#kinematikageraklurus">Kinematika Gerak Lurus</a></li>
-                <li><a href="#listrik">Listrik</a></li>
-                <li><a href="#momentumdanimpuls">Momentum Dan Impuls</a></li>
-                <li><a href="#optik">Optik</a></li>
-                <li><a href="#suhudankalor">Suhu Dan Kalor</a></li>
-                <li><a href="#usahadanenergi">Usaha Dan Energi</a></li>
-
+                <li><a href="pertidaksamaan">pertidaksamaan</a></li>
+                <li><a href="vector">vector</a></li>
+                <li><a href="dimensitiga">dimensitiga</a></li>
+                <li><a href="integral">integral</a></li>
+                <li><a href="barisandanderet">barisandanderet</a></li>
+                <li><a href="turunan">turunan</a></li>
+                <li><a href="fungsi">fungsi</a></li>
+                <li><a href="bangundatar">bangundatar</a></li>
+                <li><a href="trigonometri">trigonometri</a></li>
+                <li><a href="sukubanyak">sukubanyak</a></li>
+                <li><a href="matematikaipa">matematikaipa</a></li>
+                <li><a href="limit">limit</a></li>
+                <li><a href="lingkaran">lingkaran</a></li>
+                <li><a href="peluang">peluang</a></li>
+                <li><a href="transformasi">transformasi</a></li>
+                <li><a href="persamaankuadrat">persamaankuadrat</a></li>
+                <li><a href="fungsikuadrat">fungsikuadrat</a></li>
+                <li><a href="eksponendanlogaritma">eksponendanlogaritma</a></li>
+                <li><a href="matriks">matriks</a></li>
 
             </ul>
         </div>

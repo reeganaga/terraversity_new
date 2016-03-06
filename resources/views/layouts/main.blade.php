@@ -492,17 +492,17 @@
                                   <li >Berdasarkan Tahun</li>
                                   <li class="divider"></li>
 
-                                  <li><a href="#">MATIPA 2009 378</a></li>
-                                  <li><a href="#">MATIPA 2010 526</a></li>
-                                  <li><a href="#">MATIPA 2011 523</a></li>
-                                  <li><a href="#">MATIPA 2012 132</a></li>
-                                  <li><a href="#">MATIPA 2012 633</a></li>
-                                  <li><a href="#">MATIPA 2013 131</a></li>
-                                  <li><a href="#">MATIPA 2013 134</a></li>
-                                  <li><a href="#">MATIPA 2014 512</a></li>
-                                  <li><a href="#">MATIPA 2014 523</a></li>
-                                  <li><a href="#">MATIPA 2015 519</a></li>
-                                  <li><a href="#">MATIPA 2015 538</a></li>
+                                  <li><a href="#">tahun 2009</a></li>
+                                  <li><a href="#">tahun 2010</a></li>
+                                  <li><a href="#">tahun 2011</a></li>
+                                  <li><a href="#">tahun 2012</a></li>
+                                  <li><a href="#">tahun 2012</a></li>
+                                  <li><a href="#">tahun 2013</a></li>
+                                  <li><a href="#">tahun 2013</a></li>
+                                  <li><a href="#">tahun 2014</a></li>
+                                  <li><a href="#">tahun 2014</a></li>
+                                  <li><a href="#">tahun 2015</a></li>
+                                  <li><a href="#">tahun 2015</a></li>
                                 </ul>
 
                             </div>
@@ -615,13 +615,13 @@
                                   <li >Berdasarkan Tahun</li>
                                   <li class="divider"></li>
 
-                                  <li><a href="#">BIOLOGI SBM 2005 480</a></li>
-                                  <li><a href="#">BIOLOGI SBM 2006 420</a></li>
-                                  <li><a href="#">BIOLOGI SBM 2007 350</a></li>
-                                  <li><a href="#">BIOLOGI SBM 2008 102</a></li>
-                                  <li><a href="#">BIOLOGI SBM 2009 378</a></li>
-                                  <li><a href="#">BIOLOGI SBM 2010 350</a></li>
-                                  <li><a href="#">BIOLOGI SBM 2013 131</a></li>
+                                  <li><a href="#">tahun 2005</a></li>
+                                  <li><a href="#">tahun 2006</a></li>
+                                  <li><a href="#">tahun 2007</a></li>
+                                  <li><a href="#">tahun 2008</a></li>
+                                  <li><a href="#">tahun 2009</a></li>
+                                  <li><a href="#">tahun 2010</a></li>
+                                  <li><a href="#">tahun 2013</a></li>
 
 
                                 </ul>
@@ -747,19 +747,20 @@
       </ul>
 </li>
 @endif
-            </ul>
+</ul>
+
 
             <ul class="nav navbar-nav navbar-right">
-              @if(!Auth::check())
+@if(!Auth::check())
                   <li><a href="{{ route('public.voucher') }}"  >Voucher &nbsp;<span class="label label-warning" style="font-size: 9px">Promo</span></a></li>
                   <li><a   href="{{ route('auth.login') }}">Masuk</a></li>
                   <li><a   href="{{ route('auth.register') }}">Daftar</a></li>
-              @else
+@else
                   <li><a   href="/user/voucher">Voucher</a></li>
                   <li><img src="{{Auth::user()->profile_picture}}" class="tetap"></li>
                   <li><a   href="#">{{ Auth::user()->first_name }}</a></li>
                   <li><a   href="{{ route('authenticated.logout') }}">Logout</a></li>
-              @endif
+@endif
             </ul>
         </div>
     </div>

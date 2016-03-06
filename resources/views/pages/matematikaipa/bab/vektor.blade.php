@@ -14,24 +14,27 @@
             </div>
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
-                    FISIKA
+                    Matematika Ipa
                 </li>
-                <li>
-                    <a href="#pendahuluan">Pendahuluan</a>
-                </li>
-                <li><a href="#dinamikageraklurus">Dinamika Gerak Lurus</a></li>
-                <li><a href="#dinamikarotasi">Dinamika Rotasi</a></li>
-                <li><a href="#fisikamodern">Fisika Modern</a></li>
-                <li><a href="#fluida">Fluida</a></li>
-                <li><a href="#getarangelombangbunyi">Getaran,Gelombang dan Bunyi</a></li>
-                <li><a href="#induksimagnetikdanarusteganganbolakbalik">Induksi Magnetik Dan Arus Tegangan Bolak-Balik</a></li>
-                <li><a href="#kinematikageraklurus">Kinematika Gerak Lurus</a></li>
-                <li><a href="#listrik">Listrik</a></li>
-                <li><a href="#momentumdanimpuls">Momentum Dan Impuls</a></li>
-                <li><a href="#optik">Optik</a></li>
-                <li><a href="#suhudankalor">Suhu Dan Kalor</a></li>
-                <li><a href="#usahadanenergi">Usaha Dan Energi</a></li>
-
+                <li><a href="pertidaksamaan">pertidaksamaan</a></li>
+                <li><a href="vector">vector</a></li>
+                <li><a href="dimensitiga">dimensitiga</a></li>
+                <li><a href="integral">integral</a></li>
+                <li><a href="barisandanderet">barisandanderet</a></li>
+                <li><a href="turunan">turunan</a></li>
+                <li><a href="fungsi">fungsi</a></li>
+                <li><a href="bangundatar">bangundatar</a></li>
+                <li><a href="trigonometri">trigonometri</a></li>
+                <li><a href="sukubanyak">sukubanyak</a></li>
+                <li><a href="matematikaipa">matematikaipa</a></li>
+                <li><a href="limit">limit</a></li>
+                <li><a href="lingkaran">lingkaran</a></li>
+                <li><a href="peluang">peluang</a></li>
+                <li><a href="transformasi">transformasi</a></li>
+                <li><a href="persamaankuadrat">persamaankuadrat</a></li>
+                <li><a href="fungsikuadrat">fungsikuadrat</a></li>
+                <li><a href="eksponendanlogaritma">eksponendanlogaritma</a></li>
+                <li><a href="matriks">matriks</a></li>
 
             </ul>
         </div>
@@ -43,8 +46,43 @@
                   <div class="col-md-12">
                     <br>
                     <br>
-                      <h3 class="text-center">Pendahuluan</h3>
-                      <iframe class="video-materi center-block" width="560" height="315" src="https://www.youtube.com/embed/QSiNWEsZGRI" frameborder="0" allowfullscreen></iframe>
+                      <h3 class="text-center">Vector</h3>
+                      <div class="matipavectorbab1">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/6mOKTmbwbUs" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipavectorbab2">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/h0Yr8JRayDg" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipavectorbab3">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/Ej8kNfoGy70" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipavectorbab4">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/OgbqFwR_eRk" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipavectorbab5">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/dBrGi1NE7wM" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipavectorbab6">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/MPVTeU-Ua7Q" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipavectorbab7">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/JXVyNrIXEjs" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipavectorbab8">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/lyZNZMOIh4w" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipavectorbab9">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/h73JI6s7xJY" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipavectorbab10">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/nP3Tv97nfsA" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipavectorbab11">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/lcRhMHYGuwo" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipavectorbab12">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/Tj0wxfv3lpc" frameborder="0" allowfullscreen></iframe>
+                      </div>
                   </div>
               </div>
               <div class="row">
@@ -53,10 +91,18 @@
 
                           <div class="isi-bab text-center">
                           <hr>
-                              <a class="tombolbab" href="#">bab 1</a>
-                              <a class="tombolbab" href="#">bab 1</a>
-                              <a class="tombolbab" href="#">bab 1</a>
-                              <a class="tombolbab" href="#">bab 1</a>
+                              <a class="matipavectortombolbab1" href="#">bab 1</a>
+                              <a class="matipavectortombolbab2" href="#">bab 2</a>
+                              <a class="matipavectortombolbab3" href="#">bab 3</a>
+                              <a class="matipavectortombolbab4" href="#">bab 4</a>
+                              <a class="matipavectortombolbab5" href="#">bab 5</a>
+                              <a class="matipavectortombolbab6" href="#">bab 6</a>
+                              <a class="matipavectortombolbab7" href="#">bab 7</a>
+                              <a class="matipavectortombolbab8" href="#">bab 8</a>
+                              <a class="matipavectortombolbab9" href="#">bab 9</a>
+                              <a class="matipavectortombolbab10" href="#">bab 10</a>
+                              <a class="matipavectortombolbab11" href="#">bab 11</a>
+                              <a class="matipavectortombolbab12" href="#">bab 12</a>
                           </div>
                       </div>
                   </div>

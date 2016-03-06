@@ -16,22 +16,25 @@
                 <li class="sidebar-brand">
                     FISIKA
                 </li>
-                <li>
-                    <a href="#pendahuluan">Pendahuluan</a>
-                </li>
-                <li><a href="#dinamikageraklurus">Dinamika Gerak Lurus</a></li>
-                <li><a href="#dinamikarotasi">Dinamika Rotasi</a></li>
-                <li><a href="#fisikamodern">Fisika Modern</a></li>
-                <li><a href="#fluida">Fluida</a></li>
-                <li><a href="#getarangelombangbunyi">Getaran,Gelombang dan Bunyi</a></li>
-                <li><a href="#induksimagnetikdanarusteganganbolakbalik">Induksi Magnetik Dan Arus Tegangan Bolak-Balik</a></li>
-                <li><a href="#kinematikageraklurus">Kinematika Gerak Lurus</a></li>
-                <li><a href="#listrik">Listrik</a></li>
-                <li><a href="#momentumdanimpuls">Momentum Dan Impuls</a></li>
-                <li><a href="#optik">Optik</a></li>
-                <li><a href="#suhudankalor">Suhu Dan Kalor</a></li>
-                <li><a href="#usahadanenergi">Usaha Dan Energi</a></li>
-
+                <li><a href="pertidaksamaan">pertidaksamaan</a></li>
+                <li><a href="vector">vector</a></li>
+                <li><a href="dimensitiga">dimensitiga</a></li>
+                <li><a href="integral">integral</a></li>
+                <li><a href="barisandanderet">barisandanderet</a></li>
+                <li><a href="turunan">turunan</a></li>
+                <li><a href="fungsi">fungsi</a></li>
+                <li><a href="bangundatar">bangundatar</a></li>
+                <li><a href="trigonometri">trigonometri</a></li>
+                <li><a href="sukubanyak">sukubanyak</a></li>
+                <li><a href="matematikaipa">matematikaipa</a></li>
+                <li><a href="limit">limit</a></li>
+                <li><a href="lingkaran">lingkaran</a></li>
+                <li><a href="peluang">peluang</a></li>
+                <li><a href="transformasi">transformasi</a></li>
+                <li><a href="persamaankuadrat">persamaankuadrat</a></li>
+                <li><a href="fungsikuadrat">fungsikuadrat</a></li>
+                <li><a href="eksponendanlogaritma">eksponendanlogaritma</a></li>
+                <li><a href="matriks">matriks</a></li>
 
             </ul>
         </div>
@@ -44,7 +47,42 @@
                     <br>
                     <br>
                       <h3 class="text-center">Pendahuluan</h3>
-                      <iframe class="video-materi center-block" width="560" height="315" src="https://www.youtube.com/embed/QSiNWEsZGRI" frameborder="0" allowfullscreen></iframe>
+                      <div class="matipadimensitigabab1">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/OC0hzZollHA" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipadimensitigabab2">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/C6YseKWsFk0" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipadimensitigabab3">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/0NnEP4by_6k" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipadimensitigabab4">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/Ia71PedUIsw" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipadimensitigabab5">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/BgxrRLxEWqk" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipadimensitigabab6">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/1ijlvp0ibNo" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipadimensitigabab7">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/bUFMLbCw4ps" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipadimensitigabab8">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/9p2rkTp-nnc" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipadimensitigabab9">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/3K-iXUv2drs" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipadimensitigabab10">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/yECHG2fOUzs" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipadimensitigabab11">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/Xt-ZOH8mJZo" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                      <div class="matipadimensitigabab12">
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/AB4ZFTT8X-0" frameborder="0" allowfullscreen></iframe>
+                      </div>
                   </div>
               </div>
               <div class="row">
@@ -53,10 +91,18 @@
 
                           <div class="isi-bab text-center">
                           <hr>
-                              <a class="tombolbab" href="#">bab 1</a>
-                              <a class="tombolbab" href="#">bab 1</a>
-                              <a class="tombolbab" href="#">bab 1</a>
-                              <a class="tombolbab" href="#">bab 1</a>
+                              <a class="matipadimensitigatombolbab1" href="#">bab 1</a>
+                              <a class="matipadimensitigatombolbab2" href="#">bab 2</a>
+                              <a class="matipadimensitigatombolbab3" href="#">bab 3</a>
+                              <a class="matipadimensitigatombolbab4" href="#">bab 4</a>
+                              <a class="matipadimensitigatombolbab5" href="#">bab 5</a>
+                              <a class="matipadimensitigatombolbab6" href="#">bab 6</a>
+                              <a class="matipadimensitigatombolbab7" href="#">bab 7</a>
+                              <a class="matipadimensitigatombolbab8" href="#">bab 8</a>
+                              <a class="matipadimensitigatombolbab9" href="#">bab 9</a>
+                              <a class="matipadimensitigatombolbab10" href="#">bab 10</a>
+                              <a class="matipadimensitigatombolbab11" href="#">bab 11</a>
+                              <a class="matipadimensitigatombolbab12" href="#">bab 12</a>
                           </div>
                       </div>
                   </div>
