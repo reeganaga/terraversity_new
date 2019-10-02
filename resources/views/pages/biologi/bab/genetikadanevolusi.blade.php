@@ -6,7 +6,6 @@
 
 @section('content')
 <div id="wrapper">
-
         <!-- Sidebar Left-->
         <div id="sidebar-wrapper" class="fixed-position">
             <div class="button-tahun button-wrapper">
@@ -14,10 +13,10 @@
             </div>
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
-                    FISIKA
+                  FISIKA
                 </li>
                 <li>
-                    <a href="#pendahuluan">Pendahuluan</a>
+                  <a href="#pendahuluan">Pendahuluan</a>
                 </li>
                 <li><a href="#dinamikageraklurus">Dinamika Gerak Lurus</a></li>
                 <li><a href="#dinamikarotasi">Dinamika Rotasi</a></li>
